@@ -1,0 +1,3 @@
+To deploy: 
+    "npm run deploy"
+    It will not auto detect changes and deploy for you, you must run this command
