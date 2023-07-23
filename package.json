@@ -1,28 +1,27 @@
 {
-  "name": "joshua-kabo",
-  "version": "1.0.0",
+  "name": "gatsby-starter-hello-world",
   "private": true,
-  "description": "joshua-kabo",
-  "author": "Josh Kabo",
-  "keywords": [
-    "gatsby"
-  ],
+  "description": "A simplified bare-bones starter for Gatsby",
+  "version": "0.1.0",
+  "license": "0BSD",
   "scripts": {
-    "deploy": "gatsby build && gh-pages -d public -b deploy",
+    "build": "gatsby build",
     "develop": "gatsby develop",
     "start": "gatsby develop",
-    "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "gatsby": "^5.8.1",
-    "gatsby-plugin-sass": "^6.8.0",
+    "gatsby": "^5.11.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "sass": "^1.62.0"
+    "react-dom": "^18.2.0"
   },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
 }
