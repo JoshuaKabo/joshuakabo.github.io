@@ -19,7 +19,9 @@ export default function Home() {
             Professional Experience: Web development, Avionics Software
             Engineering, Software Testing
           </p>
-          <p>Other Interests: AI, Game Development, Computer Graphics</p>
+          <p>
+            Other Interests: AI, Game Development, Computer Graphics, Teamwork
+          </p>
         </article>
         <article>
           <form
