@@ -1,10 +1,17 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "joshua-kabo",
+  "version": "1.0.0",
   "private": true,
   "description": "A simplified bare-bones starter for Gatsby",
   "version": "0.1.0",
   "license": "0BSD",
+  "description": "joshua-kabo",
+  "author": "Josh Kabo",
+  "keywords": [
+    "gatsby"
+  ],
   "scripts": {
+    "deploy": "gatsby build && gh-pages -d public -b deploy",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "start": "gatsby develop",
@@ -16,6 +23,9 @@
     "gatsby": "^5.11.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   },
   "repository": {
     "type": "git",
