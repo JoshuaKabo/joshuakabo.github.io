@@ -1,0 +1,5 @@
+As is, a very minimal website does the job well. Maybe I want to make small changes to it.
+Experimental is for the sake of bigger, longer term developments. Main and experimental can merge back and forth. Main is for what I am comfortable with deploying at all times.
+
+experimental - big stuff
+main - constantly in deployment
