@@ -1,3 +1,17 @@
+
+To run the site locally:
+    npm start
+    then open http://localhost:8000/
+
 To deploy: 
     "npm run deploy"
     It will not auto detect changes and deploy for you, you must run this command
+
+
+Current: feature code blocks:
+uses highlight.js
+https://medium.com/@abdulhaseeb13mar/show-code-snippets-in-react-js-479907cf6ae
+(Abdul Haseeb's tutorial on Highlight.js)
+
+using highlight code blocks:
+you need a <pre> block around the <code> block
