@@ -1,0 +1,10 @@
+[$] Test code snippet with gdsl
+    glsl should do the trick for now
+    (the alternatives are too much work, idk how to use the gdscript one, and making my own would be way too much)
+[] Get code snippet working with code file input
+[] Put together a paper draft of what I want
+    [] tabs?
+    [] layout
+[] Make code snippet into a more attractive and functional window (polish step 1)
+[opt] Use Github API to pull latest state of code files for demos
+    - may be overly complicated
