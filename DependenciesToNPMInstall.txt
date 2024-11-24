@@ -1,4 +1,4 @@
-gatsby (as admin):
+// gatsby (as admin):
 npm i -g gatsby-cli
 npm install react-icons --save
 npm install gatsby-plugin-sass
@@ -6,3 +6,4 @@ npm install gatsby-plugin-sass
 npm install gatsby-plugin-webfonts
 // for code snippets / highlighting
 npm i hightlight.js
+npm install gatsby-plugin-webfonts

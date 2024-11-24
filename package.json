@@ -18,12 +18,13 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "gatsby": "^5.13.0",
-    "gatsby-plugin-sass": "^6.13.0",
-    "highlight.js": "^11.9.0",
+    "gatsby": "^5.11.0",
+    "gatsby-plugin-sass": "^3.2.0",
+    "gatsby-plugin-webfonts": "^2.3.2",
+    "joshua-kabo": "file:",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-icons": "^4.10.1"
+    "react-icons": "^4.12.0"
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
